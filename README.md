@@ -36,7 +36,7 @@ Built with **Dreamweaver**, it integrates **HTML, CSS, Bootstrap, JavaScript, an
 ---
 
 ## 🚀 Demo  
-🔗 [Live Demo on Vercel](https://vercel.com/shehan-nirmanas-projects/nova-pc-web)  
+🔗 [Live Demo on Vercel](https://nova-pc-web.vercel.app/)  
 
 ---
 
