@@ -1,0 +1,37 @@
+/* CSS Document */
+.container-fluid{
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.wrapper{
+    max-width: 100vw!important;
+    padding: 0;
+}
+
+body {
+  background-image: url( "../images/Background.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+h1{
+	color: #E00000;
+}
+
+h3{
+	color: #FFFFFF;
+}
+
+h5{
+	color: #FFFFFF;
+}
+
+p{
+	color: #FFFFFF;
+}
+
+h6{
+	color: aliceblue;
+}
+
